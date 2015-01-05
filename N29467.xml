@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <body>
          <div type="certificate">
-            <pb facs="tcp:039239_0000_1013F9AAE2D89BC8"/>
-            <pb facs="tcp:039239_0001_1013F9AE1E2767F8" rendition="simple:additions"/>
+            <pb facs="unknown:039239_0000_1013F9AAE2D89BC8"/>
+            <pb facs="unknown:039239_0001_1013F9AE1E2767F8"
+                rendition="simple:additions"/>
             <p>
                <note place="margin">
                   <hi>KINGS-COVNTY In the Province of</hi> NEW-YORKE. <hi>ſſ.</hi>
